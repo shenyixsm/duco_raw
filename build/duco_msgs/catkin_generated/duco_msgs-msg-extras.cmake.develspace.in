@@ -1,0 +1,2 @@
+set(duco_msgs_MESSAGE_FILES "/home/shenyi/duco_ws/src/duco_msgs/msg/DucoAnalog.msg;/home/shenyi/duco_ws/src/duco_msgs/msg/DucoDigital.msg;/home/shenyi/duco_ws/src/duco_msgs/msg/DucoIOState.msg;/home/shenyi/duco_ws/src/duco_msgs/msg/DucoRobotState.msg")
+set(duco_msgs_SERVICE_FILES "/home/shenyi/duco_ws/src/duco_msgs/srv/DucoGetFK.srv;/home/shenyi/duco_ws/src/duco_msgs/srv/DucoGetIK.srv;/home/shenyi/duco_ws/src/duco_msgs/srv/DucoIOStates.srv;/home/shenyi/duco_ws/src/duco_msgs/srv/DucoCommand.srv;/home/shenyi/duco_ws/src/duco_msgs/srv/DucoRobotStates.srv")

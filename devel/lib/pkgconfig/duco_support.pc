@@ -1,0 +1,8 @@
+prefix=/home/shenyi/duco_ws/devel
+
+Name: duco_support
+Description: Description of duco_support
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

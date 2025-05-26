@@ -1,0 +1,8 @@
+prefix=/home/shenyi/duco_ws/devel
+
+Name: duco_gcr16_2000_moveit_config
+Description: Description of duco_gcr16_2000_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

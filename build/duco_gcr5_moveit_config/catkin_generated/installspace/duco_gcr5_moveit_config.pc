@@ -1,0 +1,8 @@
+prefix=/home/shenyi/duco_ws/install
+
+Name: duco_gcr5_moveit_config
+Description: Description of duco_gcr5_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
